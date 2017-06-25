@@ -7,18 +7,34 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://vanangamudi.github.io/python-tamil/</loc>
-  <lastmod>2017-06-25T18:29:00Z</lastmod>
+  <lastmod>2017-06-25T20:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vanangamudi.github.io/python-tamil/2017/</loc>
+  <lastmod>2017-06-25T20:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://vanangamudi.github.io/python-tamil/archive.html</loc>
-  <lastmod>2017-06-25T18:29:00Z</lastmod>
+  <lastmod>2017-06-25T20:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://vanangamudi.github.io/python-tamil/categories/</loc>
-  <lastmod>2017-06-25T18:29:00Z</lastmod>
+  <lastmod>2017-06-25T20:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vanangamudi.github.io/python-tamil/categories/about/</loc>
+  <lastmod>2017-06-25T20:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vanangamudi.github.io/python-tamil/categories/cat_about/</loc>
+  <lastmod>2017-06-25T20:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vanangamudi.github.io/python-tamil/posts/why/</loc>
+  <lastmod>2017-06-25T20:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://vanangamudi.github.io/python-tamil/stories/aboutme/</loc>
-  <lastmod>2017-06-25T18:29:00Z</lastmod>
+  <lastmod>2017-06-25T20:42:00Z</lastmod>
  </url>
 </urlset>
